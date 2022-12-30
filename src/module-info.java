@@ -5,5 +5,5 @@
  * @author Fatmagül Işık
  *
  */
-module Helloworld {
+module student_cloud {
 }
